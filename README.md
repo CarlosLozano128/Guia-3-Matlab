@@ -5,34 +5,7 @@ Haciendo uso de MATLAB, realiza los códigos necesarios para resolver:
 
 1. Declarar dos matrices, A y B, de tamaño 4x4 e inicializarlas con valores enteros aleatorios en el rango [0,10].
    
-Codigo elaborado:
-
-A = rand(4,4);
-B = rand(4,4);
-
-rango = [0,10];
-
-for i = 1:4
-
-    for j = 1:4
-    
-        A(i,j) = randi(rango);
-        
-        B(i,j) = randi(rango);
-        
-    end
-    
-end
-
-
-disp ("Matriz A:");
-
-disp (A);
-
-disp ("Matriz B:");
-
-disp (B);
-
+Matriz dada por el codigo realizado
 
 ![image](https://github.com/CarlosLozano128/Guia-3-Matlab/assets/149644105/b0c0e5fd-11bc-447f-8350-e0efcd53bc60)
 
