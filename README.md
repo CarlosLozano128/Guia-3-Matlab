@@ -82,7 +82,19 @@ disp (B);
 
    potencia: A.^B
 
-   
+   ![image](https://github.com/CarlosLozano128/Guia-3-Matlab/assets/149644105/7ae4d9d6-d1e0-4732-8e6c-1063a800edb4)
+
+   3. Grafique las siguientes funciones en el rango [0,10], usando exactamente 
+      1000 puntos.
+
+      f(x) = e^x/100 + 100*sen(x)
+
+      g(x) = x^3 - 10x^2 + 5x + 20
+
+      
+   ![image](https://github.com/CarlosLozano128/Guia-3-Matlab/assets/149644105/0693be79-7636-43da-8b0f-b4f37f27342f)
+
+
 
    
 
