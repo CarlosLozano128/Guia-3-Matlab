@@ -91,6 +91,11 @@ disp (B);
 
       g(x) = x^3 - 10x^2 + 5x + 20
 
+   Dibuja:
+   - Un título para la gráfica.
+   - La etiqueta de los ejes horizontal y vertica.
+   - Leyendas para ambas graficas.
+   - Una línea horizontal en y=0.
       
    ![image](https://github.com/CarlosLozano128/Guia-3-Matlab/assets/149644105/0693be79-7636-43da-8b0f-b4f37f27342f)
 
